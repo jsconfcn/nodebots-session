@@ -1,5 +1,13 @@
 ## ShenJS nodebots session instruction
 
+## Please note:
+
+As many people really loved working with the mBot for NodeBots, the examples,
+drivers and firmware that have been developed have been moved to a new repository
+so that it can continue to be developed and improved. Ongoing development
+will continue at [MakeBlock Official NodeBots](https://github.com/Makeblock-official/mbot_nodebots).
+
+
 ### Hardware [mbot](http://mblock.cc/) from [makeblock](http://www.makeblock.cc/)
 
 > mBot is the easiest educational robot for kids to learn programming, Arduino and robotics.
